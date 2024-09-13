@@ -6,7 +6,7 @@ This repository is designed to help new team members learn how to use Git effect
 To mark your attendance and show that you've successfully made a change, please add your name below:
 
 [Your Name]
-Feel free to add your name to the list above, following the format.
+
 
 
 ## Git Branching Example
